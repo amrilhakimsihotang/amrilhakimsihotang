@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Amril but people here call me Ril.
 - 🔭 I’m currently working on timber of company  as IT Administrator.
-- 📫 Reach me on ![image]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}) , ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+- 📫 Reach me on ![https://www.instagram.com/h.amril/]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}) , ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 <!--
 **amrilhakimsihotang/amrilhakimsihotang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
