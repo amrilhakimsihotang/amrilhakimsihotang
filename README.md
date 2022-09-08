@@ -1,5 +1,5 @@
 
-<strong>Hi there 👋 I'm Amril but people here call me Amril.</strong>
+<strong>Hi there 👋 I'm Amril.</strong>
 <hr>
 Android developer | Cisco graduate | Flutter enthusiast, From Medan
 <p><p>
