@@ -20,7 +20,7 @@ Android developer | Cisco graduate | Flutter enthusiast, From Medan
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
     
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrilhakimsihotang&layout=compact&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrilhakimsihotang&layout=compact&show_icons=true&theme=radical&count_private=true)
 
   - 📫 How to reach me: gueamril@yahoo.com
 
