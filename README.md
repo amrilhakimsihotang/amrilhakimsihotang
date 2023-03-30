@@ -4,7 +4,7 @@
 Android developer | Cisco graduate | Flutter enthusiast, From Medan
 <p><p>
 <a href="https://www.instagram.com/h.amril/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
-<a href="https://www.linkedin.com/in/amril-hakim-sihotang-s-kom-5ab9b4199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hakim-a-5ab9b4199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <p>My Workspace<p>
   <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Intel%20Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 <img src="https://img.shields.io/badge/NVIDIA-GeForce-MX330?style=for-the-badge&logo=nvidia&logoColor=white"/>
