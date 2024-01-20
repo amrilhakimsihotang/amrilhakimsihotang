@@ -1,7 +1,7 @@
 
 <strong>Hi there 👋 I'm Amril.</strong>
 <hr>
-Android developer | Cisco graduate | From Medan
+Cisco graduate | From Medan
 <p><p>
 <a href="https://www.instagram.com/h.amril/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
 
