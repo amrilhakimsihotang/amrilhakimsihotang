@@ -1,7 +1,7 @@
 
 <strong>Hi there 👋 I'm Amril.</strong>
 <hr>
- Gamer | Cisco graduate | From Medan
+ Gamer | Dicoding and Netacad Graduated | From Medan
 <p></p>
 <p>My Workspace<p>
   <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Intel%20Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
